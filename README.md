@@ -1,2 +1,4 @@
 # Kaggle--Cats-vs-Dogs
-Using Transfer Learning
+1000 samples.
+By using Transfer Learning.
+Inception model
